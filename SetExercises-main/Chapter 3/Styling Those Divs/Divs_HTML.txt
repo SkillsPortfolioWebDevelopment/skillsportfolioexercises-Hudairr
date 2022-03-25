@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="Divs.css"/>
+    <title>Styling Those Divs</title>
+</head>
+<body>
+    <div id="A">div#A</div>
+    <div id="B">div#B</div>
+    <div id="C">div#C</div>
+    <div id="D">div#D</div>
+</body>
+</html>
