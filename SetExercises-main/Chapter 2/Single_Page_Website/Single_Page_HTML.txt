@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="en" >
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="singlepage.css" />
+    <title>Single-Page website</title>
+</head>
+<body>
+    <nav>
+    <div class="container">
+       <h1>From Up On Poppy Hill</h1>
+       <p>Scroll down please</p>
+          <ul>
+            <li><a id="sec-1" href="#one">Sypnosis</a></li>
+            <li><a id="sec-2" href="#two">Gallery</a></li>
+            <li><a id="sec-3" href="#three">Production</a></li>
+            <li><a id="sec-4" href="#four">Trailers</a></li>
+            <li><a id="sec-4" href="#four">Links</a></li>
+          </ul>
+    </div>
+    </nav>
+    
+    <div id="one" class="default first item">
+        <br/><br/><br/>
+        <h2>Sypnosis</h2>
+        <p>
+            From Up on Poppy Hill (Japanese: コクリコ坂から, Hepburn: Kokuriko-zaka Kara, "From Coquelicot Hill") is a 2011 Japanese animated
+            drama film directed by Gorō Miyazaki, scripted by Hayao Miyazaki and Keiko Niwa, animated by Studio Ghibli for the Nippon 
+            Television Network, Dentsu, Hakuhodo DY Media Partners, Walt Disney Japan, Mitsubishi, and Toho, and distributed by the latter
+            company. It is based on the 1980 serialized manga of the same name illustrated by Chizuru Takahashi and written by Tetsurō 
+            Sayama. The film stars the voices of Masami Nagasawa, Junichi Okada, Keiko Takeshita, Yuriko Ishida, Jun Fubuki, Takashi Naito,
+            Shunsuke Kazama, Nao Ōmori and Teruyuki Kagawa.
+            <br/>
+            <br/>
+            Set in 1963 Yokohama, Japan, the film tells the story of Umi Matsuzaki, a high school girl living in a boarding house, 'Coquelicot
+            Manor'. When Umi meets Shun Kazama, a member of the school's newspaper club, they decide to clean up the school's clubhouse, 
+            the 'Latin Quarter'. However, Tokumaru, the chairman of the local high school and a businessman, intends to demolish the 
+            building for redevelopment and Umi and Shun, along with Shirō Mizunuma, must persuade him to reconsider.
+        </p>
+        <br/>
+        <p>From Up on Poppy Hill premiered on July 16, 2011, in Japan. It received positive reviews from most film critics and grossed $61 
+            million worldwide. An English version was distributed by GKIDS; it was released to theaters on March 15, 2013, in North America.
+        </p>
+    </div>
+
+    <div class="gallery">
+        <a target="_blank" href="[poster].jpg">
+        <img src="[poster].jpg" alt="Movie Poster" width="600" height="400">
+        </a>
+     <div class="desc">Add a description of the image here</div>
+     </div>
+
+    <div class="gallery">
+        <a target="_blank" href="From_Up_On_Poppy_Hill.jpg">
+        <img src="From_Up_On_Poppy_Hill.jpg" alt="Movie still" width="600" height="400">
+        </a>
+    <div class="desc">Add a description of the image here</div>
+    </div>
+
+    <div id="three" class = "item">
+        <h2>Production Team</h2>
+        
+        <table class="table">  
+            <tr>  
+                <td>Hayao Miyazaki/ Keiko N</td>  
+                <td>Screenplay</td>  
+            </tr> 
+            <tr>  
+                <td>Gorō Miyazaki</td>  
+                <td>Director</td>  
+            </tr>  
+            <tr>  
+                <td>Studio Ghibli</td>  
+                <td>Producing company</td>  
+            </tr>  
+            <tr>  
+                <td>Akihiko Yamashita, Atsushi Yamagata, Kitarō Kōsaka, Takeshi Inamura, and Shunsuke Hirota</td>  
+                <td>Animation Directors</td>  
+            </tr>  
+            <tr>  
+                <td>Tokuma Japan Communications </td>  
+                <td>Soundtrack</td>  
+            </tr>  
+        </table>
+    </div>
+
+    <div id="four" class = "item">
+        <h2>Trailer</h2>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/a0DIxdy8CZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <div id="five" class="item">
+        <br/>
+        <br/>
+        <h2>Links</h2>
+        <table class="table">  
+            <tr>  
+                <td>Trailer</td>  
+                <td>
+                   <a href="https://www.youtube.com/embed/a0DIxdy8CZA">Watch it here!</a>
+                </td>  
+            </tr>  
+            <tr>  
+                <td>Studio website </td>  
+                <td>
+                    <a href="https://www.studioghibli.com.au/fromuponpoppyhill/"> Find out more here!</a>
+                </td>  
+            </tr>  
+            <tr>  
+                <td>Wikipedia</td>  
+                <td>
+                   <a href="https://en.wikipedia.org/wiki/From_Up_on_Poppy_Hill">Read more here!</a>
+                </td>  
+            </tr>  
+            <tr>  
+                <td>IMDB</td>  
+                <td>
+                    <a href="https://www.imdb.com/title/tt1798188/">Reviews at IMDB</a>
+                </td>  
+            </tr>  
+        </table>
+    </div>
+    <br/>
+   
+</body>
+</html>
