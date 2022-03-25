@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<!-- The html tag opens a new html document -->
+<html lang="en" style="background: #eeeeee">
+
+<!-- The head tag consists of the elements that work on the backend of the html document -->
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index</title>
+</head>
+
+<!-- The body tag consists of all the elements being displayed onto the html document -->
+<body>
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+
+    	<h1>Heading #1</h1> <!-- The first-most important heading -->
+
+	<!-- FILLER TEXT -->
+    	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+    </br>
+
+    	<h2>Heading #2</h2>  <!-- The second-most important heading -->
+
+	<!-- FILLER TEXT -->
+    	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+    </br>
+
+    	<h3>Heading #3</h3>  <!-- The third-most important heading -->
+
+	<!-- FILLER TEXT -->
+    	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+    </br>
+
+        <h4>Heading #4</h4>  <!-- The third-least important heading -->
+
+	<!-- FILLER TEXT -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+    </br>
+
+        <h5>Heading #5</h5>  <!-- The second-least important heading -->
+
+	<!-- FILLER TEXT -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+    </br>
+
+        <h6>Heading #6</h6>  <!-- The least-important heading -->
+
+	<!-- FILLER TEXT -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <!-- A BREAK TAG TO SEPERATE THE HEADINGS -->
+    </br>
+
+</body>
+</html>
