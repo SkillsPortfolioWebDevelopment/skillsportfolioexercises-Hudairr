@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Temperature Calculator</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Temperature Calculator</h1>
+    <div>
+        <h3>Fahrenheit to Celsius and Kelvin</h3>
+        <p>
+            <label><u>Fahrenheit:</u> </label>
+            <input id="inputFahrenheit" type="number" placeholder="Enter value"
+            oninput="fConverter(this.value)"
+            onchange="fConverter(this.value)"
+            onchange="fConverter(this.value)">
+        </p>
+        <p>Celsius: <span id="outputC"></span></p>
+    <p>Kelvin: <span id="outputK"></span></p>
+    </div>
+
+    <div>
+        <h3>Celsius to Fahrenheit and Kelvin</h3>
+            <label><u>Celsius:</u> </label>
+            <input id="inputCelsius" type="number" placeholder="Enter value"
+            oninput="cConverter(this.value)"
+            onchange="cConverter(this.value)"
+            onchange="cConverter(this.value)">
+        </p>
+        <p>Fahrenheit: <span id="outputF"></span></p>
+        <p>Kelvin: <span id="outputKelvin"></span></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

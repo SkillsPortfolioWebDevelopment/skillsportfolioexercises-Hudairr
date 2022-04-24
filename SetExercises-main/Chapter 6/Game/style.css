@@ -1,0 +1,22 @@
+html {
+    color: rgb(183, 255, 0);
+    padding: 0;
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+  }
+  canvas {
+    background: #003cff;
+    background: -webkit-linear-gradient(#0073ff, #9900ff);
+    background-color: rgb(161, 144, 238);
+    display: block;
+    margin: 0 auto;
+  }
+  h1 {
+    color: rgb(0, 145, 255);
+    margin: auto;
+    font-family: cursive;
+  }
+  h4 {
+    color: rgb(14, 147, 187);
+    font-family: cursive;
+  }
