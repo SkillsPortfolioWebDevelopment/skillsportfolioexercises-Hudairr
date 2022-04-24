@@ -1,0 +1,41 @@
+ * {
+     box-sizing: border-box;
+     box-shadow: 10ch;
+ }
+ header{
+     float:center;
+     background-color: rgb(74, 74, 188);
+     width:100%;
+     color:antiquewhite;
+ }
+ body{
+     background-image: url(bgimg.jpg);
+     background-color:aqua;
+     font-family:Helvetica;
+     display:flex;
+     flex-wrap: wrap;
+     align-items: center;
+     text-align: center;
+     overflow: hidden;
+     margin: 0;
+ }
+ .btn{
+     background-color: rgb(74, 74, 188);
+     border-radius:5px;
+     border:none;
+     color:antiquewhite;
+    margin: 1rem;
+    padding: 1.55rem 3rem;
+    font-size: 1.3rem;
+    font-family: inherit;
+    font-weight:bold;
+    cursor:pointer;
+    transition: all 0.4s;
+}
+.btn:focus{
+    outline: none;
+}
+.btn:hover {
+    background-color: aqua; /* Green */
+    color: white;
+  }
